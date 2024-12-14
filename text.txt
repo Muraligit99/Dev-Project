@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 dlfdflk
 ldfdjlfjdlf
 jdlfjldjflkd
@@ -8,3 +9,13 @@ dfjdjfldjlfd
 33333333333
 44444444444
 
+=======
+aaaaaaaaa
+bbbbbbbbb
+ccccccccc
+ddddddddd
+eeeeeeeee
+aaaaaaaaaaa
+bbbbbbbbbbbb
+ccccccccccc
+>>>>>>> development
